@@ -57,7 +57,7 @@ Elixer/
 
 ```bash
 # Clone the repository
-git clone https://github.com/Rbholika/elixer-ai-rag-llm-biomarker-medical-report-analysis-healthcare-diagnostics.git
+git clone https://github.com/lakshayysinghh/elixer-ai.git
 cd elixer-ai
 
 # Install dependencies for both client and server
