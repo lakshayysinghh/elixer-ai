@@ -1,0 +1,21 @@
+# Node modules
+/client/node_modules
+/node_modules
+/server/node_modules
+
+# Environment files
+/server/.env
+/Elixer/.env
+/.env
+/Elixer/Elixer/.env
+
+# Nested project artifacts
+/client/node_modules/
+/server/node_modules/
+/client/build/
+/client/.env
+/.DS_Store
+/server/.DS_Store
+
+# OS-specific files
+.DS_Store
